@@ -10,7 +10,7 @@ function App() {
         <a
          
         >
-          Ready form the Demo
+          Ready for the Demo
         </a>
       </header>
     </div>
