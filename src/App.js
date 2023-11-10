@@ -10,7 +10,7 @@ function App() {
         <a
          
         >
-          Deployed
+          Ready for Demo!
         </a>
       </header>
     </div>
